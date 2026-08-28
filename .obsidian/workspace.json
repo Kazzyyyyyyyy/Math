@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "e1079756845d86fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "23008472f63b687d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe0aa5ea159a6ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formelsammlung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formelsammlung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "879fc74f8d1ce2e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "923505cb28bd78c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "523000cc3d45e611",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "1da6e952603ab14c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "58bf146f8ef29b17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d3acb85c9b2689f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e68b69a9f6c6ce84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2811861792f4ade5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Formelsammlung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "1ffd91d0ad6e5c05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OMB+/Prozente und Zins.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "4d2f5fe73bb469e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "161bc06c1e9e053f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "a09f57c321eb550c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OMB+/Prozente und Zins.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "fe0aa5ea159a6ace",
+  "lastOpenFiles": [
+    "README.md",
+    "Formelsammlung.md",
+    "Projecteuler/009; Special Pythagorean Triplet.md",
+    "OMB+/Formelsammlung.md",
+    "OMB+/Prozente und Zins.md",
+    "Projecteuler/005; Smallest Multiple.md",
+    "Projecteuler/006; Sum Square Difference.md",
+    "Projecteuler/007.md",
+    "Projecteuler/008; Largest Product in a Series.md",
+    "OMB+",
+    "other/Logarithm.md",
+    "Projecteuler/000; Problem Zero.md",
+    "Projecteuler/001; Multiples of 3 or 5.md"
+  ]
+}
