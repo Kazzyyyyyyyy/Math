@@ -34,7 +34,7 @@
 **Spannung**: $U$; **V**olt
 **Kraft**: $F$; N 
 **Leistung**: $P$; W 
-##### General 
+##### Allgemein
 **Liter**: $L = dm^3$ 
 **Volumen**: $V=l*b*h$ (?)
 **Dichte**: $\varrho = \frac{m}{V}$
@@ -42,7 +42,7 @@
 #### Intervalle 
 **a+1 zu b-1**: $(a;b) =$ {$x \in \mathbb{R}|a < x < b$} 
 **a zu b**: $[a;b] =$ {$x \in \mathbb{R}|a \le x \le b$} 
-**a+1 zu b**: $(a;b]=$  {$x \in \mathbb{R}|a < x \le b$}**...**
+**a+1 zu b**: $(a;b]=$  {$x \in \mathbb{R}|a < x \le b$}
 
 #### Potenzregeln
 **1.**: $a^n*a^m=a^{n+m}$
@@ -57,14 +57,17 @@
 **3.:** $\sqrt[n]{\sqrt[m]{a}}=\sqrt[n*m]{a}$
 
 #### Vergleich Wurzeln und Exponenten #
+##### Exponenten
 $0 < a$; $0 < n <m$
 $a^n < a^m$ 
 
-$a = 1$; $0 < n < m$
-$a^n = a^m = 1$ 
+$0=n=m$
+$1=a^n=a^m$ 
 
 $0 < a < 1$; $0 <n <m$ 
 $a^m < a^n$
+##### Wurzeln 
+
 
 #### Binomische Formeln 
 $(a+b)^2 = a^2 + 2ab + b^2$
@@ -72,4 +75,6 @@ $(a-b)^2 = a^2 - 2ab + b^2$
 $(a-b)(a+b) = a^2-b^2$
 
 
-
+#### Wurzeln zu Exponenten 
+$\sqrt[n]{a^m} = a^{\frac{n}{m}}$
+$(\sqrt{})$
